@@ -1,0 +1,30 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.6)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - SwiftyJSON (5.0.0)
+  - Toaster (2.2.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - NVActivityIndicatorView
+  - SwiftyJSON
+  - Toaster
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - NVActivityIndicatorView
+    - SwiftyJSON
+    - Toaster
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toaster: c1a81b376edcc2470157b4d1ee1e9341d3b96455
+
+PODFILE CHECKSUM: 74c0794194ee6ad7a089c4cfcc9b70c1ab4b79ca
+
+COCOAPODS: 1.9.3
